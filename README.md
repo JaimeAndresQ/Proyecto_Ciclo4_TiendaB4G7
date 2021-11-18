@@ -141,5 +141,14 @@ Innovar, liderar y proveer un servicio integral proporcionando una plataforma pa
 - En el caso de que el usuario quiera buscar algo en específico, el sistema debe responder ante esta solicitud
 
 ## Sprint 2
+**Entregables**
 
+-[Contenido del Sprint #2](https://drive.google.com/drive/folders/1PhSjUlh6iH8tV1dkR4m1HxbKItZHvfzc?usp=sharing).
 
+**Nota:** Los entregables para el Sprint 2, fueron organizados en una carpeta de drive compartida. Allí se adjuntarón:
+
+   -Las capturas de las instalaciones.
+
+   -Diagramas UML (Clases y Casos de Uso).
+
+   -Avance del wireframe del aplicativo.
